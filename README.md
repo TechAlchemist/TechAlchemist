@@ -1,16 +1,18 @@
-### Hi there 👋
+### Welcome to my GitHub
 
-<!--
-**TechAlchemist/TechAlchemist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning GraphQL and Golang. 
+
+- 👯 I’m looking to collaborate on my Pathfinder API and tools! Pathfinder is a table top role playing game. I am building a suite of tools to provide powerful and aestically pleasing tools for gamers. 
+
+- 🤔 I’m looking for help with desgin. Any tips or pieces of advice for any of my projects is welcomed. 
+
+- 💬 Ask me about my projects!
+
+- 📫 How to reach me: brandonRmyers1512@gmail.com
+
+- 😄 Pronouns: He / Him / His
+
+
+
