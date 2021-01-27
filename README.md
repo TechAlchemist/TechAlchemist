@@ -2,17 +2,12 @@
 
 
 
-- 🌱 I’m currently learning GraphQL and Golang. 
+- 🌱 I’m currently learning GraphQL, Golang, and Java. 
 
-- 👯 I’m looking to collaborate on my Pathfinder API and tools! Pathfinder is a table top role playing game. I am building a suite of tools to provide powerful and aestically pleasing tools for gamers. 
+- 👯 I’m looking to collaborate on my Pathfinder API and tools! Pathfinder is a tabletop role playing game. I am building a suite of tools to provide powerful and aestically pleasing tools for gamers. 
 
-- 🤔 I’m looking for help with desgin. Any tips or pieces of advice for any of my projects is welcomed. 
+- 💬 Let's talk about anything and everything code! You can email me at brandonRmyers1512@gmail.com
 
-- 💬 Ask me about my projects!
-
-- 📫 How to reach me: brandonRmyers1512@gmail.com
-
-- 😄 Pronouns: He / Him / His
 
 
 
