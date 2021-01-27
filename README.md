@@ -9,5 +9,6 @@
 - 💬 Let's talk about anything and everything code! You can email me at brandonRmyers1512@gmail.com
 
 
-
+Some of my most used skills
+express git html5 javascript mongodb nodejs react css3 bootsrap ruby rails postgreSQL
 
