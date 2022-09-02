@@ -2,30 +2,29 @@
 
 ##   I am a Full-Stack Software Engineer. 
 
-🌱
-Currently focusing on learning GraphQL, Golang, and Java.
-I love building impressive and easy to use web applications. I'm always interested in helping others and collaboration! 
-
-👯 
-If you would like to talk, colloborate, or just say howdy:
-Connect with me on [LINKEDIN](https://www.linkedin.com/in/brandon-robert-myers-469a8b121/) 
-Send me an [email](mailto:brandonRmyers1512@gmail.com)
+🌱 Work in .NET, play in JS.
 
 ---
 
-- 💬   brandonRmyers1512@gmail.com
 
-
-### My Skills
-- Java
-- Javascript
+### Languages
 - C++
-- HTML5
-- CSS3
+- VB
+- C#
+- HTML, CSS, JS 
+- SQL / T-SQL
+
+### Frameworks
+- WebForms
+- MVC
 - React
 - Express
-- NodeJS
-- MongoDB
-- PostgreSQL
-- MySQL
+
+### Platforms, Suites, Tools 
+- SQL SERVER
+- Azure Data Factory
+- DundasBI
+- Telerik, Telerik Reporting
+
+
 
