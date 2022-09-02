@@ -26,5 +26,14 @@
 - DundasBI
 - Telerik, Telerik Reporting
 
+### Version Control
+- Git
+- GitHub
+- SourceTree
+- BitBucket
+
+### What I am working on Learning
+- Alligator Hunting
+- CI/CD other DevOPs aspects
 
 
